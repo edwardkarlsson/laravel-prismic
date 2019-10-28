@@ -1,6 +1,6 @@
 <?php
 
-namespace Prismic;
+namespace LaravelPrismic;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
